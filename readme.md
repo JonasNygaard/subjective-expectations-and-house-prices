@@ -1,6 +1,6 @@
 # Subjective expectations and house prices
 
-This folder contains replicating data and code files for *Subjective expectations and house prices* published in the Journal of Banking and Finance, Vol. 172, 107377, 2025. 
+This folder contains replicating data and code files for *Subjective expectations and house prices* published in the Journal of Banking and Finance, Vol. 172, 107377, 2025. The paper is available at https://doi.org/10.1016/j.jbankfin.2024.107377
 
 ## Data
 
